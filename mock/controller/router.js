@@ -131,12 +131,6 @@ const data = [
         meta: { title: '树', permissions: ['admin'] },
       },
       {
-        path: 'card',
-        name: 'Card',
-        component: '@/views/vab/card/index',
-        meta: { title: '卡片', permissions: ['admin'] },
-      },
-      {
         path: 'verify',
         name: 'Verify',
         component: '@/views/vab/verify/index',
@@ -211,12 +205,6 @@ const data = [
         name: 'Lodash',
         component: '@/views/vab/lodash/index',
         meta: { title: 'lodash', permissions: ['admin'] },
-      },
-      {
-        path: 'imgComparison',
-        name: 'ImgComparison',
-        component: '@/views/vab/imgComparison/index',
-        meta: { title: '图像拖拽比对', permissions: ['admin'] },
       },
       {
         path: 'smallComponents',

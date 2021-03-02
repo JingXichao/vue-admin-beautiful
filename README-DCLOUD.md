@@ -6,25 +6,17 @@
 
 ## 地址
 
-- [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](http://beautiful.panm.cn/vue-admin-beautiful-element/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
+- [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://chu1204505056.gitee.io/vue-admin-beautiful-element/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
 
-- [⚡️ vue3.x + element-plus（alpha 版本，免费商用，支持 PC、平板、手机）](http://beautiful.panm.cn/vue-admin-beautiful-element-plus/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+- [⚡️ vue3.x + ant-design-vue（beta 版本，免费商用，支持 PC、平板、手机）](https://chu1204505056.gitee.io/vue-admin-beautiful-mini/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
 
-- [⚡️ vue3.x + ant-design-vue（beta 版本，免费商用，支持 PC、平板、手机）](http://beautiful.panm.cn/vue-admin-beautiful-antdv/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
-
-- [🚀 pro 版演示地址（付费版本，支持 PC、平板、手机）](http://beautiful.panm.cn/vue-admin-beautiful-pro/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
+- [🚀 pro 版演示地址（付费版本，支持 PC、平板、手机）](https://chu1204505056.gitee.io/admin-pro/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
 
 - [🌐 github 仓库地址](https://github.com/chuzhixin/vue-admin-beautiful/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
 
 - [🌐 码云仓库地址](https://gitee.com/chu1204505056/vue-admin-beautiful/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
 
 ## 备份地址（以上地址无法使用时请访问备份站）
-
-- [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://chu1204505056.gitee.io/vue-admin-beautiful-element/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
-
-- [⚡️ vue3.x + ant-design-vue（beta 版本，免费商用，支持 PC、平板、手机）](https://chu1204505056.gitee.io/vue-admin-beautiful-mini/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
-
-- [🚀 pro 版演示地址（付费版本，支持 PC、平板、手机）](https://chu1204505056.gitee.io/vue-admin-beautiful-pro/?hmsr=dcloud&hmpl=&hmcu=&hmkw=&hmci=)
 
 ## 🌱 vue3.x vue3.0-antdv 分支（ant-design-vue）[点击切换分支](https://github.com/chuzhixin/vue-admin-beautiful/tree/vue3.0-antdv)
 
