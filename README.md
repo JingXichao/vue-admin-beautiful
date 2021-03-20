@@ -39,7 +39,7 @@
 
 ```bash
 # 克隆项目
-git clone -b vue3.0-antdv https://github.com/chuzhixin/vue-admin-beautiful-pro.git
+git clone -b vue3.0-antdv https://github.com/chuzhixin/vue-admin-beautiful.git
 # 进入项目目录
 cd vue-admin-beautiful-pro
 # 安装依赖
@@ -52,7 +52,7 @@ npm run serve
 
 ```bash
 # 克隆项目
-git clone -b master https://github.com/chuzhixin/vue-admin-beautiful-pro.git
+git clone -b master https://github.com/chuzhixin/vue-admin-beautiful.git
 # 进入项目目录
 cd vue-admin-beautiful-pro
 # 安装依赖
@@ -134,3 +134,7 @@ vue-admin-beautiful-pro 使用注意事项:
 3. 项目使用的是要求最宽泛的MIT开源协议，保留MIT开源协议即可免费商用
 
 ```
+
+## 商用注意事项
+
+此项目可免费用于商业用途，请遵守 MIT 协议并保留作者技术支持声明，如需自定义版权信息请联系客服 QQ1204505056。
